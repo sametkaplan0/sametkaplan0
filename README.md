@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi There! 👋
 
-<!--
-**sametkaplan0/sametkaplan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and I develop applications and websites in Node.js, Python, and Kotlin.
 
-Here are some ideas to get you started:
+## My Skills
+- Node.js
+- Python
+- Kotlin
+- HTML/CSS/Javascript
+- Very Little Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [All My Projects](https://github.com/sametkaplan0?tab=repositories)
+- Maybe I could offer you more if I didn't lose the source codes of most of them...
+
+## Contact Me
+- [Discord](https://discord.com/users/791636466253824000)
+- GitHub / You are already here!
+
+<h5>And the end of my simple and short profile page</h5>

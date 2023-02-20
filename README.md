@@ -17,4 +17,6 @@ I'm a software developer and I develop applications and websites in Node.js, Pyt
 - [Discord](https://discord.com/users/791636466253824000)
 - GitHub / You are already here!
 
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametkaplan0&layout=compact&theme=tokyonight)
 <h5>And the end of my simple and short profile page</h5>

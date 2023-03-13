@@ -18,5 +18,5 @@ I'm a software developer and I develop applications and websites in Node.js, Pyt
 - GitHub / You are already here!
 
 ## GitHub Stats
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametkaplan0&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametkaplan0&layout=compact)
 <h5>And the end of my simple and short profile page</h5>

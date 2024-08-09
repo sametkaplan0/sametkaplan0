@@ -1,20 +1,18 @@
 # Hi There! 👋
 
-I'm a software developer and I develop applications and websites in Node.js, Python, and Kotlin.
+I'm a software developer and I develop applications and websites in Golang, Python, and Kotlin.
 
 ## My Skills
-- Node.js
 - Python
 - Kotlin
 - HTML/CSS/Javascript
-- Very Little Go
+- Golang
 
 ## My Projects
 - [All My Projects](https://github.com/sametkaplan0?tab=repositories)
-- Maybe I could offer you more if I didn't lose the source codes of most of them...
 
 ## Contact Me
-- [Discord](https://discord.com/users/791636466253824000)
+- [E-Mail](mailto:kplnsmt184@gmail.com)
 - GitHub / You are already here!
 
 ## GitHub Stats
